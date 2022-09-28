@@ -1,0 +1,55 @@
+html,body{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-image:url(./images/images.jpg) ;
+    background-size: cover;
+    height: 100vh;
+}
+.nav-bar{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    height:60px;
+}
+.nav-bar ol a{
+    background-color: white;
+    text-decoration: none;
+     padding: 5px;
+    color: black;
+     margin: 20px; 
+}
+
+.parabutton{
+    /* text-align: center; */
+     /* margin-left: px;  */
+    margin-top: 200px;
+    margin-left: 470px;
+
+    
+}
+
+.box{
+    background-color: rgba(255, 255, 255, 0.672);
+    height: 150px;
+    width:300px ;
+}
+.button button{
+    margin-top: 20px;
+    margin-left: 100px;
+    background-color:rgba(0,0,0,0.2) ;
+    border: none;
+}
+.input{
+    width: 200px;
+    padding: 0px;
+}
+/* .input .formm{
+    margin-top: 5px;
+    padding: 5px;
+    height: 40px;
+    width: 300px; */
+}

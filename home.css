@@ -1,0 +1,40 @@
+html,body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    background-image:url(./images/girl1.jpg) ;
+    background-size: cover;
+    height: 100vh;
+}
+.nav-bar{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    height:60px;
+}
+.nav-bar ol a{
+    background-color: white;
+    text-decoration: none;
+     padding: 5px;
+    color: black;
+     margin: 20px; 
+}
+.text{
+    text-align: center;
+     margin-left: 400px; 
+    margin-top: 400px;
+}
+.button{
+    
+      background-color:white; 
+      color: rgb(8, 9, 9); 
+      padding: 10px 20px;
+     border-radius: 10px; 
+      margin-left: 900px; 
+      
+
+}
